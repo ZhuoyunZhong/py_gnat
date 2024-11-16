@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="py_gnat",
-    version="0.1.0",
+    version="0.2.0",
     author="Zhuoyun Zhong",
     author_email="zzy905954450@gmail.com",
     description="Python implementation of Geometric Near-neighbor Access Tree (GNAT) data structure from OMPL to search nearest neighbors.",
